@@ -324,7 +324,7 @@ export default function Home() {
           </div>
         </div>
         <div className="max-w-7xl mx-auto border-t border-gray-800 mt-12 pt-8 text-center text-gray-500 text-sm">
-          © 2025 SaniHotel. All rights reserved.
+          © 2026 SaniHotel. All rights reserved.
         </div>
       </footer>
     </main>
